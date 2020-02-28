@@ -6,8 +6,6 @@ thumbnail: "assets/img/blog/effective_monitoring/effective_monitoring_thumb.jpg"
 image: "assets/img/blog/effective_monitoring/effective_monitoring.jpg"
 ---
 
-## The Goal
-
 The difficulties of building out a robust monitoring solution for Kubernetes have evolved past the decision of tooling and into that of effective implementation. Regardless of the underlying platform, we’ve all seen large projects suffer instability due to lack of subject matter expertise. The goal of effective monitoring is not just to alert you when something catastrophic happens. Instead, it should warn the appropriate teams before issues arise and provide them the appropriate context and corresponding remediation steps. In this post, we’ll explore how to design a monitoring solution that provides meaningful alerts with proper context, instead of the white noise we’re all used to.  
 
 Prometheus and it’s surrounding ecosystem has emerged as the standard for Kubernetes monitoring. The Prometheus Operator in particular has simplified the technical implementation by managing all of the components with one unified controller. 

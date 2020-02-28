@@ -6,8 +6,6 @@ thumbnail: "assets/img/blog/kubernetes_operators/kubernetes_operators_thumb.png"
 image: "assets/img/blog/kubernetes_operators/kubernetes_operators.png"
 ---
 
-## What is an operator?
-
 A Kubernetes Operator is an application specific controller that manages complex application lifecycles on Kubernetes. Operators were introduced into the Kubernetes vocabulary back in 2016, when CoreOS coined the term from SRE cluster operators who were using domain specific expertise to maintain their more sophisticated applications. Kubernetes Operators have since evolved into a standardized construct meant to codify and automate any application specific constraints.
 
 _“As an example, the etcd operator provides an etcd cluster as a first-class object. Gone are the days of deploying an etcd cluster using a complicated collection of stateful sets, crds, services, and init containers to manage bootstrapping and lifecycle management, et cetera.”_ –Richard Laub, staff cloud engineer at Nebulaworks

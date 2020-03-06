@@ -4,7 +4,7 @@ url: "https://sylhare.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Devops & Tinkering                                # site's title
-description: "A website with blog posts and pages"      # used by search engines
+description: "A devops and cloud native focused blog"      # used by search engines
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
@@ -12,7 +12,7 @@ favicon: assets/favicon.ico                             # Icon displayed in the 
 header_text: Trunk Blog # Change Blog header text
 header_feature_image: assets/img/git.jpg
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+  Any questions? Send me a message over on LinkedIn
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
